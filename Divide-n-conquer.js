@@ -23,3 +23,5 @@ function divCon(x){
   }
   return numValue - strValue;
 }
+
+// or
