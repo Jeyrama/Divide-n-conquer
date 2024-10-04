@@ -6,3 +6,6 @@ subtract the total of the string integers.
 
 Return as a number.
 */
+
+
+// Solution
